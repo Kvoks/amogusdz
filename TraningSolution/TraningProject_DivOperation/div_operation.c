@@ -20,6 +20,7 @@ int main() {
             printf("Ответ - %f", div);
         }
     }
+    //амогус
     system("pause");
     return 0;
 }
